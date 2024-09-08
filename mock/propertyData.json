@@ -1,0 +1,20 @@
+[
+    {
+        "propertyNo": 7075,
+        "propertyAddress": "221B Baker Street, Nagpur",
+        "pendingTax": 12000,
+        "Owner": "Sherlock Holmes"
+    },
+    {
+        "propertyNo": 7076,
+        "propertyAddress": "221C Holder Street, Yavatmal",
+        "pendingTax": 11300,
+        "Owner": "Dr Strange"
+    },
+    {
+        "propertyNo": 7077,
+        "propertyAddress": "44C Aloha, Nagpur",
+        "pendingTax": 12000,
+        "Owner": "Dr Deshpande"
+    }
+]
